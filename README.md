@@ -1,6 +1,6 @@
 # Passport Paradise: Data-Driven Travel Solutions
 
-**Executive Summary**  
+ 
 **Passport Paradise** is a full-service travel agency focused on providing personalized travel experiences, ranging from luxury getaways to budget-friendly trips. We specialize in vacation planning, corporate travel, group bookings, and tailored itineraries. Our commitment is to create journeys that reflect our clients' unique preferences, delivering seamless and memorable experiences.
 
 - **Mission**: To inspire and facilitate extraordinary travel experiences through professional, personalized services.
