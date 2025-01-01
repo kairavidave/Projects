@@ -16,7 +16,7 @@
 - **Travel Consultancy**: Expert advice on travel trends, destination tips, and personalized itineraries.
 
 **Project Overview**  
-This project uses big data analytics to enhance the customer travel experience and optimize Passport Paradise's business strategies. Our goal is to leverage data-driven insights to provide better travel recommendations, predictive analytics for future travel trends, and tailored marketing strategies.
+This project leverages big data analytics to provide insights into customer preferences, forecast travel trends, and enhance marketing strategies for a better travel experience.
 
 **Key Objectives**  
 1. Identify meaningful trends in travel experiences, reviews, and preferences.
@@ -25,10 +25,13 @@ This project uses big data analytics to enhance the customer travel experience a
 
 **Tools and Technologies**  
 - **Data Sources**: [Kaggle datasets](https://www.kaggle.com/datasets/leomauro/argodatathon2019), including the Argo Datathon 2019 dataset (corporate travel data).
-- **Data Processing**: Azure Data Factory, Azure Databricks, Microsoft Fabric.
-- **Data Visualization**: Power BI for creating interactive dashboards and visualizations.
-- **SQL**: Used for data integration and storage.
-- **Data Preparation**: Microsoft Excel, Power Query for cleaning and transforming data.
+- **Data Processing**:
+   - Azure Data Factory
+   - Azure Lakehouse
+   - Azure Synapse
+- **Data Visualization**: Power BI
+- **Data Analysis**: Python, SQL
+- **Data Preparation**: Excel, Power Query
 
 **Project Highlights**  
 - **Data-Driven Insights**: Analyze customer preferences to optimize marketing strategies and travel offerings.
@@ -40,5 +43,7 @@ The project uses descriptive, diagnostic, predictive, and prescriptive analytics
 
 ![Dashboard](Dashboardproject.png)
 
-**Ongoing Final Project**  
-This project is currently in progress, with data processing, analysis, and visualization ongoing. Future work includes enhancing predictive models and refining our marketing strategies based on customer preferences and travel trends.
+**Recommendations**
+- Focus on dynamic pricing strategies based on peak travel times.
+- Target younger demographics alongside existing customer bases.
+- Expand loyalty programs to enhance customer retention.
